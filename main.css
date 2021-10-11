@@ -1,0 +1,27 @@
+.form-edad{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width:50% ;
+    background-color: black;
+    margin-left: 10%;
+}
+.txt{
+    padding: 10px;
+    border: 0ch;
+    border-radius: 3px;
+}
+
+#date{
+    margin: 10px;
+}
+
+#message{
+    color: #fff;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btn{
+    background-color: brown;
+}
